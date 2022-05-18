@@ -7,3 +7,5 @@ In this notebook, I'll construct a character-level LSTM with PyTorch. The networ
 This network is based off of Andrej Karpathy's [post on RNNs](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) and [implementation in Torch](https://github.com/karpathy/char-rnn). Below is the general architecture of the character-wise RNN.
 
 <img src="assets/charseq.jpeg" width="500">
+
+For the more explanation and to see the solution, please check Character_Level_RNN notebook.
